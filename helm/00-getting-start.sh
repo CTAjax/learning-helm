@@ -10,7 +10,7 @@ helm repo add brigade https://brigadecore.github.io/charts
 helm search repo brigade
 
 # install a charts
-#helm install happy-panda bitnami/wordpress
+helm install happy-panda bitnami/wordpress
 
 # Install Order
 : <<COMMENT
